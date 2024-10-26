@@ -1,4 +1,4 @@
-Repository: - git@gitlab.com:lamtech-tooling/terraform/jenkins-ec2-app.git
+Repository: -git@github.com:debaj4life/vault-app-terraform.git
 Description: - Provisioning AWS EC2 instance to deploy vault.
 Prerequisites:
 
